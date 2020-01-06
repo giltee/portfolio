@@ -1,3 +1,10 @@
+# FREE RESPONSIVE REACT JS PORTFOLIO TEMPLATE USING MATERIAL-UI
+
+Here is a portfolio template you can edit use for any purposes. It's created using React JS and Material-UI. 
+
+The project uses web pack so follow the below build process:
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
